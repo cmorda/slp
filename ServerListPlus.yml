@@ -35,8 +35,8 @@
 Default:
   Description:
   - |-
-    &6>>           &l&cLionHeart MC&e&l Creative Plots 1.12!&r            &6<<
-    &c= &bSurvival Skygrid SkyBlock Creative Factions &c =
+    &6>>           &l&cLionHeart MC&e&l!&r            &6<<
+    &c= &bSurvival Skyblock Prison Creative &c =
 #  - |-
 #    &aA Minecraft Server.
 #    &eWe have updated our server to &lMinecraft 1.8&e!
@@ -48,7 +48,7 @@ Default:
 Personalized:
   Description:
   - |-
-    &6>>     &cLionHeart MC   &r::  &1&lHardcore Reset!&r  ::     &6<<
+    &6>>     &cLionHeart MC   &r::  &1&lPrison Beta coming soon!&r  ::     &6<<
     &c=                  &eHello, &l&9%player%!               &c =
 #  - |-
 #    &aA Minecraft Network. &7|  &eHello, &l%player%!
